@@ -1,12 +1,14 @@
-# React + Vite
+# Vaul Drawer Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a customizable drawer component used in conjunction with Emil Kowalski's Vaul library. The Vaul Drawer component provides an easy-to-use and accessible sliding panel for navigating your app.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Easy-to-implement side drawer for mobile and web applications.
+- Fully responsive, works seamlessly on both desktop and mobile devices.
+- Customizable style and behavior (e.g., open/close events, transition effects).
+- 
+## Installation
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+To get started, just install dependencies with command: npm install
+Then start app with npm run dev
